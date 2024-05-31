@@ -41,3 +41,4 @@ See [SECURITY.md](SECURITY.md)
 ## Adoption and Contributions
 
 Your organization uses authentik? We'd love to add your logo to the readme and our website! Email us @ hello@goauthentik.io or open a GitHub Issue/PR! For more information on how to contribute to authentik, please refer to our [CONTRIBUTING.md file](./CONTRIBUTING.md).
+## Muadssir Alam
